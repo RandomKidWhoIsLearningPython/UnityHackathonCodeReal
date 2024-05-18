@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 211170341}
   - component: {fileID: 211170340}
   m_Layer: 0
-  m_Name: unnamed-10_3
+  m_Name: Button choice 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -675,7 +675,7 @@ GameObject:
   - component: {fileID: 1660100042}
   - component: {fileID: 1660100041}
   m_Layer: 0
-  m_Name: unnamed-10_2
+  m_Name: Button Choice 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -761,7 +761,7 @@ GameObject:
   - component: {fileID: 1784219427}
   - component: {fileID: 1784219426}
   m_Layer: 0
-  m_Name: unnamed-10_1
+  m_Name: Button choice 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -934,7 +934,7 @@ GameObject:
   - component: {fileID: 2106422258}
   - component: {fileID: 2106422257}
   m_Layer: 0
-  m_Name: unnamed-10_0
+  m_Name: Choose text box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
